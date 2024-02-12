@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\bin\Debug\menüayarları-ornk.exe.config
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\bin\Debug\menüayarları-ornk.exe
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\bin\Debug\menüayarları-ornk.pdb
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları_ornk.Form1.resources
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları_ornk.Properties.Resources.resources
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.exe
+C:\Users\User\source\repos\menüayarları-ornk\menüayarları-ornk\obj\Debug\menüayarları-ornk.pdb
